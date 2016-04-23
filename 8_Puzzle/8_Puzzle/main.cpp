@@ -7,7 +7,7 @@ using namespace std;
 void main()
 {
 	START_TIME
-		searchTree thang;
-		thang.build();
+		searchTree t;
+		t.build();
 	FINISH_TIME
 }
