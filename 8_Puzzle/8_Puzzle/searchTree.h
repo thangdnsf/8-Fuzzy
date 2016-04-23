@@ -1,4 +1,19 @@
-#pragma once
+/**********************************************************************
+* 8-Fuzzy library.
+* version: 1.5
+* Game 8-Fuzzy using A* algorithm
+*
+* July, 5th, 2015
+*
+* This lib was written by DucThang
+* Contact:thangdn.tlu@outlook.com
+*
+* Every comment would be appreciated.
+*
+* If you want to use parts of any code of mine:
+* let me know and
+* use it!
+**********************************************************************/
 #include <iostream>
 #include <sstream>
 #include <fstream>
