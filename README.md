@@ -1,5 +1,5 @@
 
-* 8-Fuzzy.
+* 8-Puzzle.
 * version: 1.5
 * Game 8-Fuzzy using A* algorithm
 *
